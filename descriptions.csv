@@ -1,0 +1,60 @@
+Feature Group,Code,Description
+1st Road Class,1,Motorway
+1st Road Class,2,A(M)
+1st Road Class,3,A
+1st Road Class,4,B
+1st Road Class,5,C
+1st Road Class,6,Unclassified
+Road Surface,1,Dry
+Road Surface,2,Wet / Damp
+Road Surface,3,Snow
+Road Surface,4,Frost / Ice
+Road Surface,5,Flood (surface water over 3cm deep)
+Lighting Conditions,1,Daylight: street lights present
+Lighting Conditions,2,Daylight: no street lighting
+Lighting Conditions,3,Daylight: street lighting unknown
+Lighting Conditions,4,Darkness: street lights present and lit
+Lighting Conditions,5,Darkness: street lights present but unlit
+Lighting Conditions,6,Darkness: no street lighting
+Lighting Conditions,7,Darkness: street lighting unknown
+Weather Conditions,1,Fine without high winds
+Weather Conditions,2,Raining without high winds
+Weather Conditions,3,Snowing without high winds
+Weather Conditions,4,Fine with high winds
+Weather Conditions,5,Raining with high winds
+Weather Conditions,6,Snowing with high winds
+Weather Conditions,7,Fog or mist – if hazard
+Weather Conditions,8,Other
+Weather Conditions,9,Unknown
+Casualty Class,1,Driver or rider
+Casualty Class,2,Vehicle or pillion passenger
+Casualty Class,3,Pedestrian
+Casualty Severity,1,Fatal
+Casualty Severity,2,Serious
+Casualty Severity,3,Slight
+Sex of Casualty,1,Male
+Sex of Casualty,2,Female
+Type of Vehicle,1,Pedal cycle
+Type of Vehicle,2,M/cycle 50cc and under
+Type of Vehicle,3,Motorcycle over 50cc and up to 125cc
+Type of Vehicle,4,Motorcycle over 125cc and up to 500cc
+Type of Vehicle,5,Motorcycle over 500cc
+Type of Vehicle,6,[Not used]
+Type of Vehicle,7,[Not used]
+Type of Vehicle,8,Taxi/Private hire car
+Type of Vehicle,9,Car
+Type of Vehicle,10,Minibus (8 – 16 passenger seats)
+Type of Vehicle,11,Bus or coach (17 or more passenger seats)
+Type of Vehicle,12,[Not used]
+Type of Vehicle,13,[Not used]
+Type of Vehicle,14,Other motor vehicle
+Type of Vehicle,15,Other non-motor vehicle
+Type of Vehicle,16,Ridden horse
+Type of Vehicle,17,Agricultural vehicle (includes diggers etc.)
+Type of Vehicle,18,Tram / Light rail
+Type of Vehicle,19,Goods vehicle 3.5 tonnes mgw and under
+Type of Vehicle,20,Goods vehicle over 3.5 tonnes and under 7.5 tonnes mgw
+Type of Vehicle,21,Goods vehicle 7.5 tonnes mgw and over
+Type of Vehicle,22,Mobility Scooter
+Type of Vehicle,90,Other Vehicle
+Type of Vehicle,97,Motorcycle - Unknown CC
